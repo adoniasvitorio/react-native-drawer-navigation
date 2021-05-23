@@ -1,4 +1,4 @@
-<h1 align="center">React navigation Tab</h1>
+<h1 align="center">React navigation Drawer</h1>
 
 ## 💻 About
 

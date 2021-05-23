@@ -2,7 +2,7 @@
 
 ## 💻 About
 
-This project is a simple implementation template for Tab Navigation in React Native. 
+This project is a simple implementation template for Drawer Navigation in React Native. 
 
 ## 🚀 Techs
 - [React Native](https://facebook.github.io/react-native/)
